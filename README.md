@@ -4,7 +4,7 @@
 ## Welcome to **SwiftUI Trends** Playground
 
 <p align="center">
-<img src="images/wwdc.png">
+<img src="images/WWDC.png">
 </p>
 
 If your interested in to watch preview please [click here](https://youtu.be/4ZkhOWVz00I)
